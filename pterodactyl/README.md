@@ -8,4 +8,4 @@
 
 ### wings:
 
-``wget https://raw.githubusercontent.com/DoctorWhoFR/InstallScripts/main/wings.sh | sh wings.sh``
+``wget https://raw.githubusercontent.com/DoctorWhoFR/InstallScripts/main/pterodactyl/wings.sh | sh wings.sh``
